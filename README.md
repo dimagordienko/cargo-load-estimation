@@ -24,7 +24,7 @@
 
 ## Видео-демонстрация
 
-()
+https://github.com/user-attachments/assets/de30206c-87ce-43a9-b3e1-abcfa4f3cf07
 
 
 ## Подход
