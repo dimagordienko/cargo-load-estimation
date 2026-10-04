@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
+
+# Logs and output
+*.log
+*.out
+*.err
+
+# Local model/data artifacts
+models/
+runs/
+features/
+data/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.csv
+
+# Temporary / local
+*.tmp
+*.bak
+*~
+
+# Keep repo itself clean for GitHub publication
+submission*.csv
+night*.sh
+night*.log
+train*.log
